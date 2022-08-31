@@ -30,14 +30,13 @@ themevarsp
 @import "https://mwittrien.github.io/BetterDiscordAddons/Themes/_res/SettingsIcons.css";
 
 :root{
-    --background-primary: #5e3640;
-    --background-secondary: #49292f;
-    --background-secondary-alt: #3b1d24;
-    --background-tertiary: #220f14;
-    --background-floating: #221115;
-    --background-accent: #c5536c;
+    --dark-primary: #000000;
+    --dark-secondary: #050505;
+    --dark-secondary-alt: #080808;
+    --dark-bright: #0b0b0b;
+    --roundmoled-background: #142339;
+    --popout-activeborders: #1f1f1f;
 }
-
 
 /****************************************************************************************
  ██████╗██╗  ██╗ █████╗ ████████╗
